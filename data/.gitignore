@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Datasets
+data/
+datasets/
+train/
+test/
+val/
+*.zip
+
+# Logs and outputs
+runs/
+outputs/
+results/
+
+# OS
+.DS_Store
+Thumbs.db
